@@ -1,0 +1,23 @@
+{
+  "Forgot": {
+    "title": "Veuillez fournir votre email pour recevoir le lien de réinitialisation de votre mot de passe.",
+    "send": "RÉINITIALISER LE MOT DE PASSE",
+    "login": "Retour à la connexion",
+    "disclaimerFooterTitle": "⚠\uFE0F Disclaimer : ",
+    "disclaimerFooter": "Veuillez noter qu'en investissant et/ou en négociant des instruments financiers, des matières premières et tout autre actif, vous prenez un degré de risque élevé et vous pouvez perdre tout votre argent. Vous ne devez vous engager dans une telle activité que si vous êtes pleinement conscient des risques correspondants. Les performances passées ne préjugent pas des performances futures."
+  },
+  "ResetPassword": {
+    "title": "Réinitialiser le mot de passe",
+    "password": "Mot de passe",
+    "confirm": "Confirmer le mot de passe",
+    "reset": "Reset",
+    "login": "Se connecter",
+    "disclaimerFooterTitle": "⚠\uFE0F Disclaimer : ",
+    "disclaimerFooter": "Veuillez noter qu'en investissant et/ou en négociant des instruments financiers, des matières premières et tout autre actif, vous prenez un degré de risque élevé et vous pouvez perdre tout votre argent. Vous ne devez vous engager dans une telle activité que si vous êtes pleinement conscient des risques correspondants. Les performances passées ne préjugent pas des performances futures."
+  },
+  "VerifEmail": {
+    "title": "Vérifier l'email",
+    "message": "Veuillez vérifier votre adresse e-mail",
+    "login": "Se connecter"
+  }
+}

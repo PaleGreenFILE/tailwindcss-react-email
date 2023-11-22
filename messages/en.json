@@ -1,0 +1,23 @@
+{
+  "Forgot": {
+    "title": "Please provide your email for send a reset link password.",
+    "send": "RESET PASSWORD",
+    "login": "Back to login",
+    "disclaimerFooterTitle": "⚠\uFE0F Disclaimer : ",
+    "disclaimerFooter": "Please note that by investing and/or trading financial instruments, commodities and any other assets you are taking a high degree of risk and you may lose all your money. You should only engage in any such activity if you are fully aware of the associated risks. Past performance does not guarantee future performance."
+  },
+  "ResetPassword": {
+    "title": "Reset password",
+    "password": "Password",
+    "confirm": "Confirm password",
+    "reset": "Reset",
+    "login": "Login",
+    "disclaimerFooterTitle": "⚠\uFE0F Disclaimer : ",
+    "disclaimerFooter": "Please note that by investing and/or trading financial instruments, commodities and any other assets you are taking a high degree of risk and you may lose all your money. You should only engage in any such activity if you are fully aware of the associated risks. Past performance does not guarantee future performance."
+  },
+  "VerifEmail": {
+    "title": "Verify email",
+    "message": "Please verify your email address",
+    "login": "Login"
+  }
+}
